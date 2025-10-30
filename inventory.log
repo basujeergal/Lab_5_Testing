@@ -1,0 +1,20 @@
+2025-10-30 06:14:15,284 - INFO - Added 10 of apple
+2025-10-30 06:14:15,284 - INFO - Added 2 of banana
+2025-10-30 06:14:15,284 - ERROR - Invalid input in addItem: invalid literal for int() with base 10: 'ten'
+2025-10-30 06:14:15,284 - INFO - Removed 3 of apple
+2025-10-30 06:14:15,284 - INFO - Removed 1 of orange
+2025-10-30 06:17:14,931 - INFO - Added 10 of apple
+2025-10-30 06:17:14,931 - INFO - Added 2 of banana
+2025-10-30 06:17:14,931 - ERROR - Invalid input in addItem: invalid literal for int() with base 10: 'ten'
+2025-10-30 06:17:14,932 - INFO - Removed 3 of apple
+2025-10-30 06:17:14,932 - WARNING - Attempted to remove non-existent item: orange
+2025-10-30 06:18:08,705 - INFO - Added 10 of apple
+2025-10-30 06:18:08,705 - INFO - Added 2 of banana
+2025-10-30 06:18:08,706 - ERROR - Invalid input in addItem: invalid literal for int() with base 10: 'ten'
+2025-10-30 06:18:08,706 - INFO - Removed 3 of apple
+2025-10-30 06:18:08,706 - WARNING - Attempted to remove non-existent item: orange
+2025-10-30 06:19:49,530 - INFO - Added 10 of apple
+2025-10-30 06:19:49,530 - INFO - Added 2 of banana
+2025-10-30 06:19:49,530 - ERROR - Invalid input in addItem: invalid literal for int() with base 10: 'ten'
+2025-10-30 06:19:49,530 - INFO - Removed 3 of apple
+2025-10-30 06:19:49,530 - WARNING - Attempted to remove non-existent item: orange
